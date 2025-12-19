@@ -18,7 +18,7 @@
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/username/object-tracking-piano-tiles.git
+git clone https://github.com/dianislami/UAS_VISKOM.git
 cd object-tracking-piano-tiles
 ````
 
